@@ -1,0 +1,72 @@
+App {
+  height: auto;
+  width: auto;
+  background-color: #ebebeb;
+  padding: 50px;
+  border: 1px solid grey;
+}
+
+.table {
+  align-content: center;
+  margin-top: 20px;
+}
+
+.content {
+  background-color: white;
+  padding: 20px;
+}
+
+img {
+  height: 23px;  
+} 
+
+input {
+  height: 30px;
+  width:400px;
+  border-color: #ebebeb;
+} 
+
+td {
+  width: 150px;
+  padding: 5px;
+  margin: 5px;
+  font-family: sans-serif;
+}
+
+.heading {
+  font-weight: bold;
+  background-color: #ebebeb;
+}
+
+.upper {
+  height: 3px;
+  width: 5px;
+}
+
+.fbtn {
+  height: 10px;
+  width: 10px;
+  padding: 0px;
+  margin: auto;
+  text-align: center;
+  font-size:x-small;
+  color: grey;
+}
+
+.head {
+  display: flex;
+}
+.link {
+  font-size: larger;
+}
+
+.btn1 {
+  background-color: #ebebeb;
+  padding: 5px;
+  border-color: black;
+  
+}
+
+.hndlinpt {
+  display: flex   ;
+}
